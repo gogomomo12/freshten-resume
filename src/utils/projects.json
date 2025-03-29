@@ -1,0 +1,43 @@
+[
+    {
+      "title": "AI Lexy English Tutor",
+      "imageSrc": "https://i.imgur.com/n7T8nCc.png",
+      "description": "A cross-platform mobile application that provides AI powered English tutoring.",
+      "skills": ["React", "Ionic", "Nginx" , "Firebase" , "Deepgram" , "1+"],
+      "source": "",
+      "live":"https://lexyapp.ai/landing"
+    },
+    {
+      "title": "Company Website",
+      "imageSrc":"https://i.imgur.com/PAraLP4.png",
+      "description": "This is the Lexcode Website",
+      "skills": ["React", "Express", "Node" , "MongoDB"],
+      "source": "",
+      "live":"https://ph.lexcode.com/"
+      
+    },
+    {
+      "title": "Transcriber Web App",
+      "imageSrc": "https://i.imgur.com/rEBoooG.png",
+      "description": "This is a project made to to transcribe audio.",
+      "skills": ["React", "Express", "Node" , "MongoDB"],
+      "source": "",
+      "live":""
+    },
+    {
+      "title": " Interpretation Web App",
+      "imageSrc": "https://i.imgur.com/fzVe6Dx.png",
+      "description": "This is a project made to get live transcription.",
+      "skills": ["React", "Express", "Node" , "MongoDB"],
+      "source": "",
+      "live":""
+    },
+    {
+      "title": "Equipment Rental Interface",
+      "imageSrc": "https://i.imgur.com/R2BXaPH.png",
+      "description": "This is a project made to rent equipments",
+      "skills": ["React", "Express", "Node" , "MongoDB"],
+      "source": "",
+      "live":""
+    }
+  ]
