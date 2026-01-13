@@ -18,7 +18,7 @@ const Navbar = () => {
 
 const btnResumeDownload = () => {
   toast.loading('Downloading..')
-  const resumeUrl = "Freshten-Rosales-Resume-CV.pdf"; // Change this to the actual path
+  const resumeUrl = "/Freshten Rosales - Resume.pdf"; // Path to the resume in public folder
   const link = document.createElement("a");
   link.href = resumeUrl;
   link.download = "Freshten-Rosales-Resume.pdf"; // Set the file name

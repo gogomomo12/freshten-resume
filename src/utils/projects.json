@@ -17,12 +17,12 @@
       
     },
     {
-      "title": "Transcriber Web App",
-      "imageSrc": "https://i.imgur.com/rEBoooG.png",
+      "title": "Document Translation Website",
+      "imageSrc": "https://i.imgur.com/zQXO0kt.png",
       "description": "This is a project made to to transcribe audio.",
       "skills": ["React", "Express", "Node" , "MongoDB"],
       "source": "",
-      "live":""
+      "live":"https://kabayan.lexcode.com/"
     },
     {
       "title": " Interpretation Web App",
@@ -30,7 +30,7 @@
       "description": "This is a project made to get live transcription.",
       "skills": ["React", "Express", "Node" , "MongoDB"],
       "source": "",
-      "live":""
+      "live":"https://qurious.eqqui.com/"
     },
     {
       "title": "Equipment Rental Interface",
@@ -38,6 +38,6 @@
       "description": "This is a project made to rent equipments",
       "skills": ["React", "Express", "Node" , "MongoDB"],
       "source": "",
-      "live":""
+      "live":"https://eqquipme.lexcode.com/"
     }
   ]
